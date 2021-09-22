@@ -18,7 +18,7 @@
         <tr>
             <td rowspan=3>Week 1</td>
             <td>Linear Search</td>
-            <td> <a href="./Lab Work/Week0/LinearSearch.java">linearSearch.java</a> </td>
+            <td> <a href="./Lab Work/Week0/LinearSearch.java">LinearSearch.java</a> </td>
         </tr>
         <tr>
             <td>Binary Search</td>
@@ -44,24 +44,24 @@
         <tr>
             <td rowspan=3>Week 3</td>
             <td>Insertion Sort</td>
-            <td> <a href="./Lab Work/Week3/InsertionSort.java">insertionSort.java</a> </td>
+            <td> <a href="./Lab Work/Week3/Insertion Sorting.java ">Insertion Sorting.java </a> </td>
         </tr>
         <tr>
             <td>Selection Sort</td>
-            <td> <a href="./Lab Work/Week3/SelectionSort.java">selectionSort.java</a> </td>
+            <td> <a href="./Lab Work/Week3/Selection Sorting.java">Selection Sorting.java</a> </td>
         </tr>
         <tr>
             <td>Checking for duplicates</td>
-            <td> <a href="./Lab Work/Week3/Sort and Find Duplicates.java">duplicates.java</a> </td>
+            <td> <a href="./Lab Work/Week3/Sort and Find Duplicate.java">Sort and Find Duplicate.java</a> </td>
         </tr>
         <tr>
             <td rowspan=3>Week 4</td>
             <td>Merge Sort</td>
-            <td> <a href="./Lab Work/Week4/MergeSorting.java">mergeSort.java</a> </td>
+            <td> <a href="./Lab Work/Week4/MergeSorting.java">MergeSorting.java</a> </td>
         </tr>
         <tr>
             <td>Quick Sort</td>
-            <td> <a href="./Lab Work/Week4/QuickSort.java">quickSort.java</a> </td>
+            <td> <a href="./Lab Work/Week4/QuickSort.java">QuickSort.java</a> </td>
         </tr>
         <tr>
             <td>Finding Kth smallest number</td>
