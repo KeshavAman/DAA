@@ -99,7 +99,6 @@
         <tr>
             <th>Title</th>
             <th>Submission</th>
-            <th>Dated</th>
         </tr>
     </thead>
     <tbody>
