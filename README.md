@@ -73,7 +73,7 @@
         </tr>
         <tr>
             <td>Finding indices as a[i]+a[j]=a[k] in unsorted array</td>
-            <td> <a href="./Lab Work/Week5/keyPairSum.cpp">keyPairSum.java</a> </td>
+            <td> <a href="./Lab Work/Week5/KeyPairSum.java">KeyPairSum.java</a> </td>
         </tr>
         <tr>
             <td>Finding common elements of two arrays</td>
