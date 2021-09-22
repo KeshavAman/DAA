@@ -69,7 +69,7 @@
         <tr>
             <td rowspan=3>Week 5</td>
             <td>Count Sort</td>
-            <td> <a href="./Lab Work/Week5/countSort.java">CountSort.java</a> </td>
+            <td> <a href="./Lab Work/Week5/CountSort.java">CountSort.java</a> </td>
         </tr>
         <tr>
             <td>Finding indices as a[i]+a[j]=a[k] in unsorted array</td>
