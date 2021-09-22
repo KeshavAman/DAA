@@ -103,7 +103,7 @@
     <tbody>
         <tr>
             <td>Assignment 1</td>
-            <td> <a href="./Assignments/Assignment 1.pdf">Assignment 1.pdf</a> </td>
+            <td> <a href="./Assignment 1.pdf">Assignment 1.pdf</a> </td>
         </tr>
      </tbody>
 </table>
