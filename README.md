@@ -82,11 +82,15 @@
         <tr>
             <td rowspan=3>Week 6</td>
             <td>Finding Existance of Path</td>
-            <td> <a href="./Lab Work/Week6/dfs.java">dfs.java</a> </td>
+            <td> <a href="./Lab Work/Week6/DFS.java">DFS.java</a> </td>
+        </tr>
+         <tr>
+            <td>Finding Existance of Path</td>
+            <td> <a href="./Lab Work/Week6/BFS.java">BFS.java</a> </td>
         </tr>
         <tr>
             <td>Checking if Graph is Bipartite</td>
-            <td> <a href="./Lab Work/Week6/bipartite.java">bipartite.java</a> </td>
+            <td> <a href="./Lab Work/Week6/Bipartite.java">Bipartite.java</a> </td>
         </tr>
     </tbody>
 </table>
