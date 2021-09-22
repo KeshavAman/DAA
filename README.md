@@ -25,12 +25,12 @@
         </tr>
         <tr>
             <td>Exponential Search</td>
-            <td> <a href="./Lab Work/Week1/exponentialSearch.java">exponentialSearch.java</a> </td>
+            <td> <a href="./Lab Work/Week1/ExponentialSearch.java">ExponentialSearch.java</a> </td>
         </tr>
         <tr>
             <td rowspan=3>Week 2</td>
             <td>No. of duplicates of Key</td>
-            <td> <a href="./Lab Work/Week2/problem1.java">problem1.java</a> </td>
+            <td> <a href="./Lab Work/Week2/Problem1.java">Problem1.java</a> </td>
         </tr>
         <tr>
             <td>Finding indices as a[i]+a[j]=a[k] in sorted array</td>
@@ -38,7 +38,7 @@
         </tr>
         <tr>
             <td>Counting pairs equal to key</td>
-            <td> <a href="./Lab Work/Week2/problem3.java">problem3.java</a> </td>
+            <td> <a href="./Lab Work/Week2/Problem3.java">Problem3.java</a> </td>
         </tr>
         <tr>
             <td rowspan=3>Week 3</td>
